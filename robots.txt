@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://3tv.smotrim-lostfilm.ru/sitemap1.xml
+Sitemap: https://tv-live-news.github.io/tv24/sitemap1.xml
